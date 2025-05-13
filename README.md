@@ -2,18 +2,18 @@
 
 Proud developer and lifelong learner.
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical)
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github)
 
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![CSS](https://img.shields.io/badge/-css-333333?style=flat&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![HTML](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
-![ES6](https://img.shields.io/badge/-ES6-333333?style=flat&logo=es6)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![ES6](https://img.shields.io/badge/-ES6-333333?style=flat&logo=javascript)
 
 ## 📫 How to reach me
 
