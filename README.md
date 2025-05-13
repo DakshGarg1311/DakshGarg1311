@@ -18,7 +18,7 @@ Proud developer and lifelong learner.
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshgarg1311)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dakshgarg1311@example.com)
+[![LinkedIn](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/phone-1024.png)]([https://linkedin.com/in/dakshgarg1311](https://wa.me/9911511125)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thedakshgarg@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dakshgarg1311.dakshgarg1311)
