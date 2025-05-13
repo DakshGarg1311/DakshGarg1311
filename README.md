@@ -18,7 +18,7 @@ Proud developer and lifelong learner.
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/phone-1024.png)](https://wa.me/9911511125)
+[![Call](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/phone-1024.png)](https://wa.me/9911511125)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thedakshgarg@gmail.com)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dakshgarg1311.dakshgarg1311)
