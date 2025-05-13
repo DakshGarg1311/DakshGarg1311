@@ -8,7 +8,7 @@ Proud developer and lifelong learner.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bootstrap](https://img.shields.io/badge/-Java-333333?style=flat&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![CSS](https://img.shields.io/badge/-css-333333?style=flat&logo=css)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
