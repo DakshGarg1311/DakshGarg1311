@@ -3,7 +3,7 @@
 Proud developer and lifelong learner.
 
 <!-- Added dragon emoji to simulate a themed badge -->
-![🐉 Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github)
+![🐉 Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=default)
 
 ## 🔧 Technologies & Tools
 
@@ -20,4 +20,5 @@ Proud developer and lifelong learner.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thedakshgarg@gmail.com)
 
+---
 
