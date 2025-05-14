@@ -2,11 +2,12 @@
 
 Proud developer and lifelong learner.
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=default)
+<!-- Added dragon emoji to simulate a themed badge -->
+![🐉 Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=default)
 
-### 🐉 Dragon-powered Coding
+### 🔥 Dragon-Coded Projects
 
-![Dragon Power](https://img.shields.io/badge/Powered_by-Dragon-ff69b4?style=for-the-badge&logo=dragon&logoColor=white)
+![Dragon Power](https://img.shields.io/badge/Dragon%20Mode-Activated-8e44ad?style=for-the-badge&logo=dragon&logoColor=white)
 
 ## 🔧 Technologies & Tools
 
@@ -25,4 +26,4 @@ Proud developer and lifelong learner.
 
 ---
 
-_Thanks for visiting! Keep learning and keep building!_
+_Thanks for visiting! Unleash your inner dragon 🔥_
