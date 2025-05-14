@@ -2,10 +2,9 @@
 
 Proud developer and lifelong learner.
 
-<!-- Added dragon emoji to simulate a themed badge -->
-![🐉 Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github)
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github)
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -22,3 +21,4 @@ Proud developer and lifelong learner.
 
 ---
 
+_Thanks for visiting! Keep learning and keep building!_
