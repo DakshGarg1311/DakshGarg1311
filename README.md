@@ -2,7 +2,7 @@
 
 Proud developer and lifelong learner.
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github)
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshgarg1311&show_icons=true&theme=radical&rank_icon=github&count_private=true)
 
 ### 🔧 Technologies & Tools
 
