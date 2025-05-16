@@ -11,7 +11,7 @@ Proud developer and lifelong learner.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![CSS](https://img.shields.io/badge/-TailWind.CSS-333333?style=flat&logo=css3)
+![TailWind](https://img.shields.io/badge/-TailWind.CSS-333333?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![ES6](https://img.shields.io/badge/-ES6-333333?style=flat&logo=javascript)
