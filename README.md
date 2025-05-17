@@ -14,7 +14,7 @@ Proud developer and lifelong learner.
 ![TailWind](https://img.shields.io/badge/-TailWind.css-333333?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![ES6](https://img.shields.io/badge/-ES6-333333?style=flat&logo=javascript)
+![ES6](https://img.shields.io/badge/-Es6-333333?style=flat&logo=javascript)
 
 ## 📫 How to reach me
 
